@@ -26,6 +26,5 @@
 ![docket](https://github.com/Ajithkumar9047/Ajithkumar9047/assets/114790836/1b545392-44ec-4902-ae4b-17ae25e51fee)
 ![bitbucket](https://github.com/Ajithkumar9047/Ajithkumar9047/assets/114790836/f6db8ee9-0b99-4e08-b61a-4c0d509ce7d6)
 ![sql](https://github.com/Ajithkumar9047/Ajithkumar9047/assets/114790836/0c90efec-06b5-49e8-9600-4987f58b589a)
-
 ![spring](https://github.com/Ajithkumar9047/Ajithkumar9047/assets/114790836/721fda66-8d7c-4f55-9ad0-a7fc9ea7a807)
 
