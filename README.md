@@ -1,11 +1,11 @@
-## Hi there 👋 Iam Ajithkumar Sekar
-# Data science | Machine Learning | NLP | Deep Learning | OpenCV | Django | Flask | Tensorflow | Pytorch
+# Hi there 👋 Iam Ajithkumar Sekar
+## Data science | Machine Learning | NLP | Deep Learning | OpenCV | Django | Flask | Tensorflow | Pytorch
 - 🔭 Hello! I'm Ajithkumar Sekar, a dedicated professional specializing in Python Development and Automation. With a strong foundation in software development and a passion for automating workflows, I am seeking opportunities to leverage my skills in Python and related technologies to contribute to innovative projects.
 - 🌱 I’m currently learning Ai in LLM model and Qudrant database and Devops Tools
 - 👯  I’m looking to collaborate on a team to show case my skills and attitude
 - 🤔 I’m looking for help with Python developer or Python automation developer role.
 - 📫 How to reach me: Email: ajithkumaraji9047@gmail.com, LinkedIn:https://www.linkedin.com/in/ajithkumar-s-0ab206229/
-# 😄 Skills:
+## 😄 Skills:
       Languages: Python, Java
       Frameworks: Django, Flask, Spring Boot
       Libraries: NumPy, pandas, Matplotlib, OpenCV
